@@ -1,0 +1,602 @@
+,age,gender,hypertension,diabetes,BMI,Residence type,stroke,disability/death,heart disease,smoking,work_type,marital_status,Risk Factors,year,Age_group
+0,62,male,1,0,24.22,rural,1,0,1,formerly smoked,Private,1,1,2020,56 - 65 
+1,79,female,1,1,29.38,rural,1,1,1,never smoked,Self-employed,1,1,2020,+75 
+2,80,male,1,0,25.95,rural,1,0,1,never smoked,Private,1,0,2020,+75 
+3,70,male,1,1,28.69,rural,1,0,0,smokes,Private,1,1,2020,66 - 75 
+4,46,female,1,1,41.52,rural,1,0,0,never smoked,Self-employed,1,0,2020,46 - 55 
+5,68,female,1,1,29.38,rural,1,0,0,formerly smoked,Private,1,1,2020,66 - 75 
+6,55,male,1,1,25.83,rural,1,1,1,never smoked,Private,1,0,2020,46 - 55 
+7,62,male,1,0,25.95,rural,1,0,1,never smoked,Private,0,0,2020,56 - 65 
+8,52,female,0,0,22.04,rural,0,0,0,Unknown,Private,1,0,2020,46 - 55 
+9,97,male,1,1,22.86,rural,1,1,0,Unknown,Private,1,1,2020,+75 
+10,69,male,1,1,42.52,rural,1,1,1,never smoked,Private,1,1,2020,66 - 75 
+11,59,female,0,0,24.09,rural,1,0,0,smokes,Govt_job,1,0,2020,56 - 65 
+12,61,male,1,1,27.34,rural,1,0,0,smokes,Private,1,1,2020,56 - 65 
+13,78,female,1,1,22.32,rural,1,0,0,Unknown,Private,1,0,2020,+75 
+14,85,female,1,0,35.86,rural,1,1,1,never smoked,Private,1,1,2020,+75 
+15,68,male,1,0,33.06,rural,1,0,1,never smoked,Self-employed,1,1,2020,66 - 75 
+16,55,male,1,0,28.04,rural,1,0,0,smokes,Private,1,0,2020,46 - 55 
+17,71,male,1,1,30.01,rural,1,1,1,smokes,Private,1,1,2020,66 - 75 
+18,76,male,1,0,22.49,rural,1,0,0,never smoked,Private,0,1,2020,+75 
+19,71,male,1,0,23.02,rural,1,0,0,Unknown,Govt_job,0,1,2020,66 - 75 
+20,73,female,1,1,27.34,rural,0,0,0,smokes,Govt_job,1,1,2020,66 - 75 
+21,46,male,0,0,27.68,rural,1,0,0,never smoked,Self-employed,1,0,2020,46 - 55 
+22,55,male,1,0,27.09,rural,1,0,0,never smoked,Self-employed,1,1,2020,46 - 55 
+23,87,female,1,0,29.38,rural,1,1,0,Unknown,Private,1,1,2020,+75 
+24,72,female,1,1,24.42,rural,0,1,1,formerly smoked,Private,1,1,2020,66 - 75 
+25,79,female,0,1,22.45,rural,1,0,0,never smoked,Self-employed,1,1,2020,+75 
+26,73,female,1,1,25.71,rural,1,1,0,formerly smoked,Private,1,1,2020,66 - 75 
+27,88,female,0,0,24.98,rural,1,0,1,Unknown,Private,1,0,2020,+75 
+28,59,male,1,1,32.04,rural,1,0,0,smokes,Self-employed,1,0,2020,56 - 65 
+29,79,female,1,1,27.55,rural,1,0,1,formerly smoked,Private,1,0,2020,+75 
+30,48,male,1,0,27.65,rural,0,0,1,smokes,Private,1,1,2020,46 - 55 
+31,77,female,1,0,30.05,rural,0,0,0,Unknown,Private,1,0,2020,+75 
+32,83,female,0,0,31.25,rural,1,0,0,never smoked,Self-employed,1,0,2020,+75 
+33,32,male,0,0,30.04,rural,1,0,0,formerly smoked,Self-employed,1,0,2020,26 - 35 
+34,85,male,1,0,22.49,rural,1,0,1,never smoked,Govt_job,0,1,2019,+75 
+35,52,male,0,0,25.5,rural,1,0,0,formerly smoked,Private,0,0,2019,46 - 55 
+36,76,female,1,1,29.03,rural,1,1,1,formerly smoked,Private,1,0,2019,+75 
+37,84,male,1,1,25.71,rural,1,0,1,formerly smoked,Private,1,1,2019,+75 
+38,57,female,1,0,33.6,rural,1,0,0,Unknown,Private,0,1,2019,56 - 65 
+39,83,female,1,0,31.21,rural,0,0,0,never smoked,Private,1,0,2019,+75 
+40,61,male,1,0,31.0,rural,1,0,0,formerly smoked,Private,1,1,2019,56 - 65 
+41,58,female,1,0,27.34,rural,1,1,0,never smoked,Private,1,0,2019,56 - 65 
+42,53,male,1,1,27.68,rural,1,0,1,smokes,Private,1,1,2019,46 - 55 
+43,52,female,1,1,24.32,rural,1,0,0,formerly smoked,Private,1,0,2019,46 - 55 
+44,51,male,0,0,32.87,rural,1,0,0,smokes,Govt_job,1,0,2019,46 - 55 
+45,77,female,1,0,25.95,rural,1,0,0,never smoked,Private,1,1,2019,+75 
+46,75,female,1,1,30.01,rural,1,0,0,Unknown,Self-employed,0,0,2019,+75 
+47,54,male,1,1,27.56,rural,1,1,1,formerly smoked,Private,1,1,2019,46 - 55 
+48,79,male,0,0,23.31,rural,1,1,1,never smoked,Self-employed,1,0,2019,+75 
+49,65,female,1,0,26.71,rural,1,0,1,smokes,Private,1,1,2019,56 - 65 
+50,78,male,0,0,28.8,rural,1,0,0,Unknown,Private,0,0,2019,+75 
+51,84,female,1,1,33.98,rural,0,0,0,formerly smoked,Private,1,1,2019,+75 
+52,70,male,1,0,35.16,rural,1,0,0,never smoked,Private,1,1,2019,66 - 75 
+53,71,male,1,0,32.05,rural,1,0,0,never smoked,Self-employed,1,1,2019,66 - 75 
+54,75,male,0,0,29.8,rural,1,0,0,never smoked,Govt_job,1,0,2019,+75 
+55,72,female,1,0,34.17,rural,1,0,0,formerly smoked,Private,1,0,2019,66 - 75 
+56,60,female,1,0,33.2,rural,1,1,0,never smoked,Private,1,1,2020,56 - 65 
+57,80,male,0,0,24.38,rural,1,0,0,formerly smoked,Private,1,0,2021,+75 
+58,95,male,1,1,30.01,rural,1,0,1,never smoked,Self-employed,1,1,2019,+75 
+59,76,female,1,1,33.06,rural,0,0,0,never smoked,Govt_job,1,1,2019,+75 
+60,57,female,1,1,31.14,rural,0,0,0,formerly smoked,Private,1,0,2019,56 - 65 
+61,81,female,1,0,26.67,rural,1,1,1,never smoked,Private,1,1,2019,+75 
+62,59,male,1,0,24.58,rural,1,1,0,smokes,Self-employed,1,1,2019,56 - 65 
+63,83,male,1,0,30.08,rural,1,0,0,formerly smoked,Private,1,1,2019,+75 
+64,82,male,0,1,26.02,rural,0,0,0,Unknown,Private,1,0,2019,+75 
+65,70,female,1,1,29.94,rural,1,0,1,never smoked,Private,0,1,2019,66 - 75 
+66,45,male,0,0,25.95,rural,1,1,0,never smoked,Private,1,0,2019,36 - 45 
+67,77,female,1,1,35.16,rural,1,0,0,Unknown,Private,1,0,2019,+75 
+68,79,female,1,1,29.38,rural,1,0,0,formerly smoked,Private,1,1,2020,+75 
+69,78,female,1,1,29.38,rural,1,0,0,never smoked,Self-employed,1,1,2019,+75 
+70,88,male,1,0,27.9,rural,1,1,0,formerly smoked,Govt_job,1,1,2019,+75 
+71,64,female,1,0,30.09,rural,1,0,0,formerly smoked,Private,1,1,2019,56 - 65 
+72,48,male,0,0,30.45,rural,1,0,0,formerly smoked,Govt_job,1,0,2019,46 - 55 
+73,70,female,0,0,32.33,rural,1,0,1,never smoked,Private,1,1,2019,66 - 75 
+74,61,male,1,1,27.45,rural,1,0,1,never smoked,Private,1,1,2019,56 - 65 
+75,81,female,1,1,26.87,rural,1,0,1,formerly smoked,Self-employed,1,1,2019,+75 
+76,79,female,1,1,30.01,rural,1,0,1,never smoked,Private,1,1,2019,+75 
+77,68,male,1,0,29.67,rural,1,0,0,formerly smoked,Private,1,1,2019,66 - 75 
+78,85,female,0,0,30.98,rural,1,0,1,never smoked,Private,1,1,2019,+75 
+79,88,male,1,1,26.34,rural,1,0,0,Unknown,Self-employed,1,1,2019,+75 
+80,76,female,1,0,24.78,rural,1,1,0,Unknown,Private,1,1,2019,+75 
+81,74,female,1,0,25.32,rural,0,0,0,Unknown,Self-employed,1,0,2022,66 - 75 
+82,88,male,1,1,23.22,rural,1,1,0,never smoked,Private,0,1,2019,+75 
+83,79,male,1,0,35.67,rural,0,0,1,never smoked,Self-employed,0,1,2019,+75 
+84,63,male,1,0,28.7,rural,1,0,0,Unknown,Private,1,0,2019,56 - 65 
+85,92,female,1,0,32.33,rural,1,0,0,smokes,Private,1,0,2019,+75 
+86,55,female,0,0,31.66,rural,0,0,0,smokes,Private,1,0,2019,46 - 55 
+87,65,female,1,0,24.21,rural,1,1,0,formerly smoked,Private,1,1,2019,56 - 65 
+88,82,female,1,1,33.15,rural,1,0,0,formerly smoked,Private,1,0,2019,+75 
+89,40,female,0,0,30.72,rural,1,1,1,Unknown,Private,1,1,2019,36 - 45 
+90,74,female,0,0,32.67,rural,1,0,0,never smoked,Private,1,1,2019,66 - 75 
+91,84,female,1,1,25.8,rural,1,0,0,never smoked,Private,1,1,2019,+75 
+92,68,male,0,0,30.41,rural,1,1,1,never smoked,Self-employed,0,1,2019,66 - 75 
+93,87,male,1,0,29.83,rural,1,1,0,Unknown,Self-employed,1,1,2019,+75 
+94,69,female,1,1,27.52,rural,1,0,0,never smoked,Private,1,1,2020,66 - 75 
+95,69,female,1,1,27.52,rural,1,0,0,never smoked,Private,1,1,2019,66 - 75 
+96,63,male,0,0,28.85,rural,1,0,0,formerly smoked,Self-employed,1,0,2019,56 - 65 
+97,68,female,1,1,25.35,rural,1,0,0,smokes,Private,1,0,2019,66 - 75 
+98,65,male,1,1,30.34,rural,1,1,1,formerly smoked,Govt_job,1,1,2019,56 - 65 
+99,68,male,1,1,32.21,rural,1,0,1,never smoked,Govt_job,1,1,2019,66 - 75 
+100,53,male,1,1,30.64,rural,0,0,0,Unknown,Govt_job,1,0,2020,46 - 55 
+101,82,male,1,0,24.31,rural,1,1,1,never smoked,Govt_job,1,0,2019,+75 
+102,80,female,1,1,31.12,rural,1,0,0,formerly smoked,Private,1,0,2019,+75 
+103,81,female,1,1,23.21,rural,1,1,1,Unknown,Self-employed,1,1,2019,+75 
+104,52,female,0,0,32.46,rural,1,0,0,Unknown,Govt_job,1,0,2019,46 - 55 
+105,65,male,1,0,34.45,rural,1,1,1,smokes,Private,1,1,2019,56 - 65 
+106,74,female,1,0,36.23,rural,0,0,0,formerly smoked,Private,1,0,2019,66 - 75 
+107,40,male,0,0,31.8,rural,1,0,0,smokes,Self-employed,1,0,2019,36 - 45 
+108,55,male,1,0,28.95,rural,1,0,1,never smoked,Private,1,1,2019,46 - 55 
+109,76,female,1,0,26.53,rural,1,0,0,never smoked,Govt_job,1,0,2019,+75 
+110,82,female,1,0,29.06,rural,1,1,1,formerly smoked,Private,1,1,2020,+75 
+111,90,male,1,1,27.32,rural,0,0,0,smokes,Private,1,1,2019,+75 
+112,79,female,1,0,29.7,rural,1,1,0,formerly smoked,Self-employed,1,1,2019,+75 
+113,78,male,0,0,25.32,rural,0,1,0,never smoked,Private,1,1,2019,+75 
+114,67,female,1,0,24.12,rural,0,0,0,Unknown,Govt_job,0,0,2019,66 - 75 
+115,83,male,0,0,30.42,rural,1,0,0,never smoked,Govt_job,0,0,2019,+75 
+116,86,female,1,1,33.12,rural,1,1,1,smokes,Self-employed,1,1,2019,+75 
+117,81,female,1,0,24.65,rural,1,1,1,smokes,Private,1,1,2019,+75 
+118,82,female,1,1,24.8,rural,1,1,1,formerly smoked,Self-employed,0,1,2022,+75 
+119,80,male,0,0,24.77,rural,1,1,0,never smoked,Private,1,1,2022,+75 
+120,64,male,1,0,35.32,rural,1,0,0,formerly smoked,Private,1,1,2019,56 - 65 
+121,83,male,1,0,33.21,rural,0,0,0,Unknown,Private,1,0,2019,+75 
+122,84,male,1,0,28.51,rural,1,1,0,smokes,Private,1,1,2019,+75 
+123,81,female,0,0,29.98,rural,1,0,0,never smoked,Private,1,0,2019,+75 
+124,64,female,1,1,30.24,rural,1,1,1,Unknown,Private,1,1,2019,56 - 65 
+125,77,female,1,0,26.58,rural,1,0,0,never smoked,Govt_job,1,0,2019,+75 
+126,75,male,0,0,25.54,rural,1,1,0,formerly smoked,Self-employed,1,0,2019,+75 
+127,83,female,0,1,28.41,rural,1,1,0,Unknown,Private,1,1,2019,+75 
+128,76,male,1,0,26.46,rural,1,0,1,formerly smoked,Govt_job,1,0,2019,+75 
+129,70,female,1,1,27.55,city,1,1,0,Unknown,Govt_job,1,0,2019,66 - 75 
+130,82,male,1,1,30.21,rural,1,1,1,never smoked,Private,1,0,2019,+75 
+131,81,female,1,0,25.54,rural,0,1,0,never smoked,Private,0,1,2019,+75 
+132,68,male,1,0,33.21,rural,1,1,0,never smoked,Private,0,1,2019,66 - 75 
+133,61,male,1,1,32.22,rural,0,0,0,formerly smoked,Private,1,1,2019,56 - 65 
+134,88,female,1,0,24.23,rural,1,1,0,never smoked,Self-employed,1,1,2019,+75 
+135,68,male,1,1,30.67,rural,1,1,1,never smoked,Govt_job,1,1,2019,66 - 75 
+136,83,female,1,0,31.45,rural,0,0,0,formerly smoked,Private,1,0,2019,+75 
+137,81,male,0,0,28.27,rural,1,1,0,Unknown,Private,1,1,2019,+75 
+138,74,male,1,1,25.54,rural,1,0,1,formerly smoked,Self-employed,1,0,2019,66 - 75 
+139,72,female,0,0,36.34,rural,1,1,0,Unknown,Private,1,0,2019,66 - 75 
+140,62,female,1,0,22.35,city,1,0,0,never smoked,Govt_job,1,1,2019,56 - 65 
+141,61,male,1,1,35.89,rural,1,1,1,smokes,Private,1,0,2019,56 - 65 
+142,90,male,0,0,27.57,rural,1,1,0,never smoked,Private,1,0,2019,+75 
+143,87,male,1,1,26.17,rural,1,1,1,never smoked,Self-employed,0,0,2019,+75 
+144,75,female,1,0,24.66,rural,1,1,0,never smoked,Private,1,0,2019,+75 
+145,94,female,1,1,28.33,rural,1,1,0,formerly smoked,Private,1,1,2019,+75 
+146,80,male,1,1,24.2,rural,0,1,0,formerly smoked,Self-employed,1,1,2019,+75 
+147,80,male,1,1,34.6,rural,1,1,1,never smoked,Private,1,0,2019,+75 
+148,87,female,1,1,29.45,rural,1,1,1,never smoked,Govt_job,1,0,2020,+75 
+149,53,female,0,0,26.85,city,1,1,0,never smoked,Private,1,0,2022,46 - 55 
+150,55,female,1,0,27.68,city,1,0,0,Unknown,Private,1,0,2022,46 - 55 
+151,87,female,1,1,31.01,rural,1,1,1,formerly smoked,Private,1,0,2020,+75 
+152,79,female,0,1,32.23,rural,1,1,0,never smoked,Self-employed,1,0,2021,+75 
+153,55,male,1,1,26.78,city,1,1,1,smokes,Self-employed,1,0,2021,46 - 55 
+154,52,female,1,0,22.21,rural,0,0,0,never smoked,Self-employed,1,0,2021,46 - 55 
+155,46,female,1,1,40.31,rural,0,0,0,never smoked,Private,1,1,2021,46 - 55 
+156,87,male,1,1,27.84,rural,1,1,1,smokes,Private,1,1,2021,+75 
+157,46,male,0,0,25.34,rural,1,0,0,smokes,Private,1,0,2021,46 - 55 
+158,46,female,1,0,31.0,city,1,1,1,formerly smoked,Self-employed,1,0,2021,46 - 55 
+159,69,male,1,1,28.51,city,1,0,1,never smoked,Self-employed,1,1,2021,66 - 75 
+160,56,male,1,0,32.6,city,0,0,0,formerly smoked,Private,1,1,2021,56 - 65 
+161,91,male,1,1,26.42,rural,1,0,1,smokes,Private,1,0,2021,+75 
+162,76,female,1,1,29.56,rural,1,0,0,Unknown,children,0,0,2021,+75 
+163,83,male,1,1,28.67,rural,1,1,1,never smoked,Private,0,1,2021,+75 
+164,71,male,1,0,30.29,city,1,1,0,formerly smoked,Self-employed,1,0,2021,66 - 75 
+165,55,male,1,1,31.4,rural,1,1,1,formerly smoked,Self-employed,1,1,2021,46 - 55 
+166,76,female,0,0,26.32,rural,1,0,0,Unknown,Govt_job,1,1,2021,+75 
+167,70,female,1,1,27.58,city,1,1,1,never smoked,Private,1,0,2021,66 - 75 
+168,58,male,1,0,22.31,rural,1,0,1,formerly smoked,Govt_job,0,1,2021,56 - 65 
+169,70,male,1,1,25.41,rural,1,1,0,never smoked,Self-employed,1,0,2021,66 - 75 
+170,80,male,1,0,27.36,rural,1,0,1,formerly smoked,Self-employed,1,0,2021,+75 
+171,83,male,0,0,23.21,rural,1,1,0,never smoked,Self-employed,0,0,2021,+75 
+172,60,male,1,1,32.21,rural,1,1,0,smokes,Private,1,1,2021,56 - 65 
+173,59,female,1,1,31.98,rural,0,1,0,formerly smoked,Self-employed,1,0,2021,56 - 65 
+174,87,female,1,0,26.46,rural,0,0,0,formerly smoked,Self-employed,1,1,2021,+75 
+175,85,female,1,0,35.21,rural,1,1,1,never smoked,Self-employed,1,1,2021,+75 
+176,71,female,1,1,27.92,city,1,0,0,never smoked,Private,1,0,2021,66 - 75 
+177,75,male,0,0,31.25,city,0,1,0,formerly smoked,Self-employed,1,0,2021,+75 
+178,75,male,0,0,26.93,rural,1,0,1,Unknown,Govt_job,1,0,2021,+75 
+179,55,male,1,1,24.27,rural,1,0,1,Unknown,Private,1,0,2021,46 - 55 
+180,78,male,1,0,25.78,city,1,0,0,never smoked,Private,1,0,2021,+75 
+181,55,male,1,0,28.56,rural,0,1,0,formerly smoked,Private,1,0,2021,46 - 55 
+182,79,female,1,1,29.87,rural,1,0,0,smokes,Private,1,1,2021,+75 
+183,72,male,1,1,29.33,city,1,0,0,Unknown,Private,0,0,2021,66 - 75 
+184,94,female,0,0,30.75,rural,1,1,0,smokes,Private,1,1,2021,+75 
+185,71,female,1,0,26.82,rural,1,0,0,formerly smoked,Private,1,1,2021,66 - 75 
+186,59,male,0,0,27.81,rural,1,0,0,formerly smoked,Self-employed,1,0,2021,56 - 65 
+187,74,male,0,1,27.36,city,1,0,0,formerly smoked,Govt_job,1,1,2021,66 - 75 
+188,88,female,1,1,30.41,rural,1,1,1,formerly smoked,Private,1,1,2021,+75 
+189,29,male,0,0,30.0,city,1,1,0,Unknown,Private,1,0,2021,26 - 35 
+190,57,male,0,0,28.51,city,1,0,0,formerly smoked,Private,1,0,2021,56 - 65 
+191,71,male,1,1,25.22,rural,0,1,1,formerly smoked,Private,1,0,2021,66 - 75 
+192,67,male,1,0,28.8,rural,1,0,0,smokes,Self-employed,1,0,2021,66 - 75 
+193,93,male,0,0,22.65,rural,1,0,0,smokes,Private,1,0,2021,+75 
+194,76,male,0,1,24.74,rural,1,1,0,smokes,Private,1,1,2021,+75 
+195,73,female,1,1,29.55,city,1,1,0,formerly smoked,Private,1,0,2021,66 - 75 
+196,76,male,1,1,29.24,city,1,1,1,formerly smoked,Private,1,1,2021,+75 
+197,76,male,1,0,30.46,rural,1,1,0,Unknown,Private,1,1,2021,+75 
+198,55,male,1,0,23.87,city,1,0,1,formerly smoked,Private,1,0,2021,46 - 55 
+199,76,female,1,1,29.53,rural,1,1,0,never smoked,Self-employed,1,1,2021,+75 
+200,72,male,1,1,30.12,rural,1,1,1,Unknown,Private,1,0,2021,66 - 75 
+201,62,male,0,0,24.93,city,1,0,1,formerly smoked,Private,1,0,2021,56 - 65 
+202,76,female,1,1,32.61,rural,1,1,1,never smoked,Self-employed,1,1,2021,+75 
+203,86,female,1,0,24.33,rural,1,1,0,never smoked,Self-employed,1,0,2021,+75 
+204,67,male,1,0,27.51,city,0,0,1,smokes,Govt_job,1,1,2021,66 - 75 
+205,74,male,1,1,21.9,rural,1,0,1,formerly smoked,Private,1,0,2021,66 - 75 
+206,89,male,1,1,30.0,rural,1,0,0,never smoked,Private,1,0,2021,+75 
+207,85,female,1,1,34.29,rural,1,0,0,never smoked,Self-employed,0,0,2021,+75 
+208,43,male,1,1,25.41,rural,0,1,0,Unknown,Self-employed,1,1,2021,36 - 45 
+209,71,male,1,0,29.85,rural,1,0,1,Unknown,Govt_job,1,0,2021,66 - 75 
+210,70,female,1,1,25.32,city,1,1,0,never smoked,Private,1,1,2021,66 - 75 
+211,79,female,0,0,22.2,rural,1,0,0,formerly smoked,Govt_job,1,0,2021,+75 
+212,94,female,1,1,28.66,city,1,1,0,never smoked,Private,1,0,2021,+75 
+213,71,female,1,1,26.39,city,0,0,0,never smoked,Private,1,1,2021,66 - 75 
+214,75,female,1,0,27.22,rural,1,1,0,never smoked,Self-employed,1,0,2021,+75 
+215,53,male,0,0,29.44,rural,0,1,0,smokes,Private,0,0,2021,46 - 55 
+216,87,female,1,0,24.69,rural,1,0,0,never smoked,Self-employed,1,1,2021,+75 
+217,83,male,1,0,28.6,rural,1,1,0,smokes,Private,1,0,2021,+75 
+218,55,male,0,0,24.59,rural,1,1,0,smokes,Self-employed,1,0,2021,46 - 55 
+219,75,female,1,1,22.0,city,1,0,0,never smoked,Govt_job,1,0,2021,+75 
+220,72,male,1,0,29.42,city,1,0,0,smokes,Private,1,1,2021,66 - 75 
+221,78,female,1,1,30.31,rural,0,1,0,never smoked,Private,1,1,2021,+75 
+222,98,female,1,1,26.96,city,1,1,1,formerly smoked,Govt_job,1,1,2021,+75 
+223,56,male,1,0,33.6,rural,0,1,1,smokes,Govt_job,0,0,2021,56 - 65 
+224,71,male,1,0,27.49,rural,1,0,0,smokes,Private,0,0,2021,66 - 75 
+225,74,male,0,0,23.22,rural,1,0,0,Unknown,Private,1,0,2022,66 - 75 
+226,55,male,1,1,28.38,rural,1,0,1,never smoked,Private,1,0,2022,46 - 55 
+227,61,male,1,1,22.95,rural,1,1,1,never smoked,Self-employed,1,1,2022,56 - 65 
+228,88,male,1,1,26.69,city,1,0,1,smokes,Self-employed,1,0,2022,+75 
+229,84,male,1,1,39.52,rural,1,0,0,never smoked,Private,0,1,2022,+75 
+230,53,male,0,1,28.38,city,1,0,1,never smoked,Self-employed,1,0,2022,46 - 55 
+231,82,male,1,1,25.83,city,1,1,1,smokes,Private,1,1,2022,+75 
+232,84,female,1,1,24.95,city,0,1,1,never smoked,Self-employed,1,0,2022,+75 
+233,55,female,0,0,22.04,rural,0,1,0,formerly smoked,Self-employed,1,1,2022,46 - 55 
+234,81,female,0,0,32.86,rural,1,1,0,Unknown,Self-employed,1,0,2022,+75 
+235,69,male,0,0,42.52,city,1,1,1,Unknown,Private,1,1,2022,66 - 75 
+236,42,female,1,0,27.06,rural,1,1,0,Unknown,Private,1,0,2022,36 - 45 
+237,73,male,0,0,27.34,rural,1,1,0,formerly smoked,Self-employed,1,1,2022,66 - 75 
+238,75,female,1,0,25.34,rural,1,1,0,never smoked,Private,1,0,2021,+75 
+239,47,male,1,1,24.32,city,1,0,0,smokes,Private,1,1,2021,46 - 55 
+240,93,male,0,0,33.86,city,1,1,0,formerly smoked,Private,1,0,2021,+75 
+241,59,female,0,0,35.06,city,0,1,0,formerly smoked,Private,1,0,2021,56 - 65 
+242,81,male,1,1,27.64,rural,1,0,1,never smoked,Private,1,0,2021,+75 
+243,62,male,1,0,30.01,city,1,0,1,formerly smoked,Private,1,0,2021,56 - 65 
+244,56,male,0,0,22.49,rural,0,1,0,Unknown,Private,1,0,2021,56 - 65 
+245,70,male,0,1,24.02,rural,1,1,1,Unknown,children,0,0,2021,66 - 75 
+246,63,male,1,0,28.34,city,1,0,1,formerly smoked,Self-employed,1,0,2021,56 - 65 
+247,89,female,1,0,28.68,rural,1,1,0,Unknown,Self-employed,1,1,2021,+75 
+248,82,male,0,0,29.09,rural,1,1,1,Unknown,Private,1,0,2021,+75 
+249,75,female,1,1,29.38,rural,0,1,0,Unknown,children,0,1,2021,+75 
+250,94,female,1,0,23.04,rural,1,1,0,never smoked,Private,1,0,2021,+75 
+251,69,male,1,0,31.09,rural,1,1,1,Unknown,Private,0,0,2021,66 - 75 
+252,86,female,1,1,30.45,rural,1,1,0,formerly smoked,Private,1,0,2021,+75 
+253,84,female,1,0,34.33,rural,1,1,0,Unknown,Never_worked,0,0,2021,+75 
+254,46,female,1,1,25.45,city,1,1,0,Unknown,Private,1,1,2021,46 - 55 
+255,86,female,1,0,22.87,city,0,1,0,formerly smoked,Private,1,0,2021,+75 
+256,54,male,1,0,35.01,rural,0,0,0,never smoked,Self-employed,1,0,2021,46 - 55 
+257,59,male,1,1,27.67,rural,1,1,1,smokes,Private,1,0,2021,56 - 65 
+258,79,female,1,1,32.98,rural,1,1,0,never smoked,Self-employed,1,0,2021,+75 
+259,78,male,1,1,25.34,rural,1,1,1,Unknown,Govt_job,1,0,2021,+75 
+260,84,male,1,0,27.78,rural,1,1,0,formerly smoked,Private,1,0,2021,+75 
+261,97,male,1,1,24.32,rural,1,1,1,never smoked,Private,1,1,2021,+75 
+262,72,female,1,1,30.98,rural,1,1,1,formerly smoked,Private,1,1,2021,66 - 75 
+263,73,male,1,0,27.34,city,1,0,0,never smoked,Private,1,1,2021,66 - 75 
+264,64,male,1,0,25.78,rural,1,1,0,never smoked,Private,0,0,2021,56 - 65 
+265,71,female,1,1,26.32,rural,1,1,0,smokes,Private,0,1,2021,66 - 75 
+266,81,male,0,1,22.87,rural,1,0,0,never smoked,Private,1,1,2021,+75 
+267,73,female,1,0,33.76,city,0,1,0,smokes,Govt_job,1,1,2021,66 - 75 
+268,79,male,1,0,24.04,rural,1,1,1,smokes,Self-employed,1,1,2021,+75 
+269,70,male,1,1,40.05,rural,0,1,1,Unknown,Private,1,1,2021,66 - 75 
+270,55,male,1,0,34.79,rural,1,0,0,smokes,Private,1,1,2021,46 - 55 
+271,81,female,1,0,26.98,city,1,0,0,smokes,Private,1,1,2021,+75 
+272,97,male,1,1,25.77,city,1,1,0,formerly smoked,Private,1,1,2021,+75 
+273,71,male,1,1,27.34,rural,0,0,1,never smoked,Private,1,0,2021,66 - 75 
+274,72,female,1,1,32.1,rural,1,0,1,never smoked,Private,1,1,2021,66 - 75 
+275,69,female,0,0,28.32,rural,1,1,0,smokes,Govt_job,1,0,2022,66 - 75 
+276,61,male,1,0,26.42,rural,1,0,1,never smoked,Private,0,0,2022,56 - 65 
+277,54,male,1,0,30.53,rural,1,0,0,never smoked,Private,1,0,2022,46 - 55 
+278,62,male,0,0,25.66,city,0,1,0,never smoked,Self-employed,1,0,2022,56 - 65 
+279,54,female,0,0,27.21,rural,1,0,0,Unknown,Self-employed,1,0,2022,46 - 55 
+280,81,female,1,1,23.22,rural,1,1,0,Unknown,Private,1,0,2022,+75 
+281,74,male,1,1,27.59,rural,1,0,1,smokes,Private,0,0,2022,66 - 75 
+282,84,male,1,1,29.75,city,1,1,0,Unknown,children,0,1,2022,+75 
+283,67,male,1,1,32.0,city,1,1,1,Unknown,Private,1,0,2022,66 - 75 
+284,56,male,1,0,28.63,rural,1,1,1,Unknown,Govt_job,0,0,2022,56 - 65 
+285,59,female,1,0,29.72,rural,1,0,0,formerly smoked,Private,1,1,2022,56 - 65 
+286,89,male,1,1,33.65,city,0,1,1,never smoked,Private,0,0,2022,+75 
+287,54,male,1,1,28.56,city,1,1,0,Unknown,Private,1,0,2022,46 - 55 
+288,90,female,1,0,27.67,rural,1,1,0,Unknown,Self-employed,0,0,2022,+75 
+289,60,female,1,1,34.55,rural,1,1,0,smokes,Private,1,0,2022,56 - 65 
+290,76,male,1,0,24.0,rural,1,1,0,Unknown,children,0,1,2022,+75 
+291,78,female,1,1,22.47,rural,1,0,1,Unknown,children,0,0,2022,+75 
+292,76,female,1,0,29.32,city,0,1,0,Unknown,children,0,0,2022,+75 
+293,90,male,1,0,27.96,rural,1,0,0,formerly smoked,Private,1,1,2022,+75 
+294,74,female,1,0,29.72,rural,1,0,1,Unknown,Private,0,1,2022,66 - 75 
+295,89,female,1,0,25.22,rural,1,1,1,smokes,Govt_job,1,1,2022,+75 
+296,74,female,1,0,22.54,rural,1,1,0,never smoked,Private,1,0,2022,66 - 75 
+297,75,male,0,0,27.62,rural,1,0,1,smokes,Govt_job,1,0,2022,+75 
+298,78,female,1,1,29.54,rural,1,0,1,never smoked,Self-employed,1,0,2022,+75 
+299,74,male,1,0,29.61,city,1,1,0,Unknown,Private,1,1,2022,66 - 75 
+300,83,female,1,0,23.55,rural,1,1,0,Unknown,Self-employed,1,1,2022,+75 
+301,61,female,1,0,27.38,rural,1,1,0,formerly smoked,Self-employed,0,1,2022,56 - 65 
+302,50,female,1,0,30.31,rural,1,0,0,never smoked,Private,1,0,2021,46 - 55 
+303,67,male,1,0,29.53,city,1,0,1,smokes,Private,1,1,2021,66 - 75 
+304,67,male,1,0,29.53,city,1,0,1,smokes,Private,1,1,2021,66 - 75 
+305,67,male,1,0,29.53,city,1,0,1,smokes,Private,1,1,2022,66 - 75 
+306,78,male,1,1,27.65,city,1,1,0,Unknown,children,0,0,2021,+75 
+307,84,female,0,0,25.92,rural,1,1,0,Unknown,Govt_job,1,1,2021,+75 
+308,52,female,0,0,29.26,rural,1,1,0,smokes,Private,1,0,2021,46 - 55 
+309,40,female,0,0,28.22,rural,0,1,0,formerly smoked,Self-employed,1,0,2020,36 - 45 
+310,64,female,0,1,29.9,city,1,0,0,Unknown,Self-employed,1,0,2020,56 - 65 
+311,55,male,1,0,32.33,city,1,1,0,Unknown,Private,1,0,2020,46 - 55 
+312,46,male,0,0,40.0,city,1,0,0,Unknown,Private,1,1,2020,46 - 55 
+313,64,male,1,1,28.37,city,1,0,0,smokes,Private,1,0,2020,56 - 65 
+314,59,male,0,1,36.6,rural,1,0,1,never smoked,Private,1,1,2020,56 - 65 
+315,91,male,0,0,28.66,city,1,1,0,formerly smoked,Private,1,1,2020,+75 
+316,87,male,0,0,32.5,city,1,0,0,formerly smoked,Self-employed,1,0,2020,+75 
+317,93,female,0,0,34.4,rural,1,1,0,never smoked,Self-employed,1,0,2020,+75 
+318,54,male,1,0,24.0,rural,1,1,1,formerly smoked,Private,1,0,2020,46 - 55 
+319,55,male,1,0,29.0,city,0,1,1,never smoked,Private,0,0,2020,46 - 55 
+320,58,male,1,0,27.4,city,1,1,0,Unknown,Private,0,0,2020,56 - 65 
+321,83,female,0,1,22.8,rural,1,0,1,Unknown,children,0,1,2020,+75 
+322,77,female,0,0,29.095,rural,1,1,0,Unknown,Private,0,1,2020,+75 
+323,87,female,1,0,24.2,city,1,0,0,Unknown,Private,1,0,2020,+75 
+324,86,female,0,0,29.7,rural,1,1,0,formerly smoked,Govt_job,0,0,2020,+75 
+325,88,female,1,0,36.8,rural,1,1,0,formerly smoked,Private,1,1,2021,+75 
+326,61,male,1,1,27.3,city,1,1,1,never smoked,Private,1,0,2021,56 - 65 
+327,87,male,0,0,28.153,rural,0,1,1,Unknown,children,0,0,2021,+75 
+328,43,male,0,0,28.2,city,1,1,1,smokes,Private,0,0,2021,36 - 45 
+329,91,male,0,0,30.9,rural,1,1,0,smokes,Private,0,0,2021,+75 
+330,51,female,0,0,37.5,rural,0,1,0,never smoked,Private,1,0,2021,46 - 55 
+331,67,female,1,1,25.8,rural,1,0,1,formerly smoked,Private,1,0,2020,66 - 75 
+332,74,male,0,0,37.8,rural,0,0,0,smokes,Self-employed,1,0,2019,66 - 75 
+333,68,female,1,1,31.185,city,1,1,1,formerly smoked,Private,1,0,2022,66 - 75 
+334,52,male,1,1,26.923750000000002,rural,0,0,0,Unknown,Self-employed,1,0,2020,46 - 55 
+335,64,female,0,1,39.2,city,1,0,1,Unknown,children,0,1,2020,56 - 65 
+336,67,male,0,1,28.56888888888889,city,1,0,1,Unknown,Private,1,0,2020,66 - 75 
+337,61,female,0,0,28.575,rural,1,0,0,never smoked,Private,0,0,2020,56 - 65 
+338,80,male,0,1,27.7,rural,1,0,1,never smoked,Govt_job,1,0,2020,+75 
+339,49,female,0,0,31.4,city,1,0,0,never smoked,Private,1,0,2020,46 - 55 
+340,79,female,1,0,28.565555555555555,rural,1,0,0,never smoked,Private,1,0,2020,+75 
+341,81,male,0,0,36.5,city,1,0,0,formerly smoked,Private,1,0,2020,+75 
+342,74,male,1,1,33.2,rural,1,1,0,formerly smoked,Private,1,0,2020,66 - 75 
+343,69,female,0,0,31.51,city,1,1,1,formerly smoked,Govt_job,1,0,2020,66 - 75 
+344,59,female,0,0,32.8,rural,1,0,1,never smoked,Self-employed,1,0,2020,56 - 65 
+345,78,female,0,0,27.7,city,1,1,1,never smoked,Private,0,0,2020,+75 
+346,81,female,1,0,40.4,rural,1,0,1,never smoked,Private,1,1,2020,+75 
+347,61,female,0,1,22.2,rural,1,0,0,formerly smoked,Govt_job,1,0,2020,56 - 65 
+348,54,female,0,0,25.3,city,1,1,0,never smoked,Private,0,0,2020,46 - 55 
+349,78,male,0,1,30.2,city,1,0,1,smokes,Govt_job,0,0,2020,+75 
+350,79,female,0,1,28.565555555555555,city,1,1,0,formerly smoked,Self-employed,1,0,2020,+75 
+351,50,female,1,0,24.0,rural,1,1,1,never smoked,Private,1,0,2020,46 - 55 
+352,64,male,0,1,47.5,city,1,0,0,never smoked,Private,0,0,2020,56 - 65 
+353,75,male,1,0,20.3,city,1,1,0,never smoked,Private,1,1,2020,+75 
+354,60,female,0,0,30.0,city,1,0,0,smokes,Private,1,1,2020,56 - 65 
+355,57,male,0,1,28.9,city,1,0,0,never smoked,Private,1,1,2020,56 - 65 
+356,71,female,0,0,27.895555555555557,rural,1,1,0,smokes,Private,1,0,2020,66 - 75 
+357,52,female,1,0,28.1,city,1,0,1,never smoked,Govt_job,0,1,2020,46 - 55 
+358,79,female,0,0,31.1,city,0,0,0,never smoked,Self-employed,1,0,2020,+75 
+359,82,male,0,1,27.4,rural,0,1,1,smokes,Private,1,0,2020,+75 
+360,71,male,0,0,26.4,city,0,0,1,never smoked,Self-employed,1,0,2020,66 - 75 
+361,80,male,0,0,21.7,rural,1,1,1,never smoked,Self-employed,1,0,2020,+75 
+362,65,female,0,0,27.0,rural,0,0,0,formerly smoked,Private,1,0,2020,56 - 65 
+363,58,male,0,0,24.1,rural,0,0,0,Unknown,children,0,0,2020,56 - 65 
+364,69,male,0,1,31.51,city,1,0,0,Unknown,Private,1,0,2020,66 - 75 
+365,59,male,0,0,45.9,rural,1,1,0,formerly smoked,Private,1,0,2020,56 - 65 
+366,57,male,1,0,44.1,city,1,0,0,never smoked,Self-employed,1,0,2020,56 - 65 
+367,42,male,0,0,27.06,rural,1,0,0,never smoked,Self-employed,0,0,2020,36 - 45 
+368,82,female,1,0,22.9,city,1,1,0,never smoked,Private,1,0,2020,+75 
+369,80,male,0,1,29.7,city,1,1,0,Unknown,children,0,0,2020,+75 
+370,48,male,0,0,33.5,city,1,0,0,never smoked,Private,1,1,2020,46 - 55 
+371,82,female,1,1,29.1,rural,1,1,1,never smoked,Private,0,1,2020,+75 
+372,74,male,0,0,27.3,rural,1,0,1,never smoked,Private,1,1,2020,66 - 75 
+373,72,female,1,0,32.3,rural,1,0,1,formerly smoked,Private,1,1,2020,66 - 75 
+374,58,male,0,0,41.1,rural,1,0,1,smokes,Govt_job,1,0,2020,56 - 65 
+375,49,female,0,0,25.6,city,1,0,0,never smoked,Govt_job,1,0,2020,46 - 55 
+376,78,male,0,0,29.8,rural,1,0,0,Unknown,children,0,1,2020,+75 
+377,54,male,0,0,26.3,city,1,0,1,Unknown,Private,0,1,2020,46 - 55 
+378,82,male,0,1,37.5,city,1,1,0,Unknown,children,0,1,2020,+75 
+379,63,female,0,0,26.2,city,0,0,1,formerly smoked,Private,1,1,2020,56 - 65 
+380,60,male,1,0,29.4,city,0,0,0,Unknown,children,0,0,2020,56 - 65 
+381,76,male,1,0,32.3,rural,1,1,1,never smoked,Private,1,0,2020,+75 
+382,75,female,0,1,24.4,city,1,0,1,never smoked,Govt_job,1,0,2020,+75 
+383,58,female,0,0,31.4,city,1,0,1,Unknown,children,0,0,2020,56 - 65 
+384,81,male,0,0,27.7,city,1,1,0,Unknown,children,0,0,2020,+75 
+385,39,female,1,0,28.0,rural,1,0,0,never smoked,Private,1,0,2020,36 - 45 
+386,76,female,0,0,28.8,city,1,1,0,never smoked,Self-employed,1,0,2020,+75 
+387,78,male,1,0,31.4,city,1,1,0,never smoked,Private,0,0,2019,+75 
+388,79,female,0,1,34.6,rural,1,0,1,formerly smoked,Govt_job,1,0,2019,+75 
+389,77,female,1,0,19.4,city,1,0,0,formerly smoked,Private,1,0,2019,+75 
+390,63,female,0,0,28.5,city,1,0,1,never smoked,Private,1,0,2019,56 - 65 
+391,63,male,0,1,30.4075,rural,1,1,1,smokes,Private,1,0,2019,56 - 65 
+392,82,female,0,0,30.3,rural,1,1,0,never smoked,Private,1,0,2019,+75 
+393,78,male,0,1,40.4,city,1,1,0,never smoked,Self-employed,0,0,2019,+75 
+394,73,male,1,0,24.2,city,1,1,1,never smoked,Private,0,0,2019,66 - 75 
+395,54,female,1,0,41.5,city,1,0,0,never smoked,Private,0,0,2019,46 - 55 
+396,56,female,0,1,22.6,city,1,0,0,never smoked,Private,1,0,2019,56 - 65 
+397,80,female,1,0,24.2,rural,0,1,0,never smoked,Self-employed,1,0,2019,+75 
+398,67,female,1,1,28.56888888888889,rural,0,0,0,smokes,Private,1,0,2019,66 - 75 
+399,45,female,0,0,56.6,rural,0,0,0,formerly smoked,Private,1,1,2019,36 - 45 
+400,75,male,1,1,27.1,city,0,1,0,Unknown,children,0,0,2019,+75 
+401,78,male,1,1,30.9,city,0,1,0,never smoked,children,0,0,2019,+75 
+402,70,female,0,0,27.3,city,0,0,0,Unknown,Private,0,1,2019,66 - 75 
+403,76,male,1,0,31.3,city,0,1,0,smokes,Govt_job,1,0,2019,+75 
+404,59,male,0,0,24.0,city,1,0,0,Unknown,Self-employed,1,1,2019,56 - 65 
+405,80,female,1,1,31.0,rural,1,1,0,never smoked,Govt_job,1,0,2019,+75 
+406,76,female,0,0,28.0,rural,1,0,0,Unknown,Private,1,0,2019,+75 
+407,67,female,1,0,30.3,rural,1,0,0,never smoked,Private,1,0,2019,66 - 75 
+408,66,female,1,0,31.7,rural,1,0,0,never smoked,Private,1,0,2019,66 - 75 
+409,63,male,0,0,35.8,rural,1,0,0,Unknown,Private,1,0,2019,56 - 65 
+410,52,female,0,0,26.923750000000002,rural,1,0,0,Unknown,Self-employed,0,1,2021,46 - 55 
+411,80,female,0,1,28.4,rural,1,1,0,never smoked,Self-employed,1,1,2021,+75 
+412,80,male,1,0,27.659999999999997,city,1,1,0,smokes,Govt_job,0,1,2021,+75 
+413,79,female,1,1,24.0,city,1,0,0,Unknown,Self-employed,1,1,2021,+75 
+414,51,female,0,0,29.0,city,1,0,0,never smoked,children,0,0,2021,46 - 55 
+415,43,male,0,0,26.805,city,1,0,0,smokes,Private,1,0,2021,36 - 45 
+416,59,male,0,0,36.5,rural,1,0,0,Unknown,children,0,0,2021,56 - 65 
+417,66,female,0,0,20.1,city,1,0,0,never smoked,Private,1,0,2021,66 - 75 
+418,79,female,0,0,36.5,rural,1,1,1,never smoked,Private,0,0,2021,+75 
+419,68,female,1,0,31.185,city,1,0,0,never smoked,Private,0,0,2021,66 - 75 
+420,58,male,1,0,26.7,city,1,0,0,Unknown,Govt_job,1,0,2021,56 - 65 
+421,54,male,0,0,38.7,rural,1,0,0,Unknown,children,0,0,2021,46 - 55 
+422,61,male,0,1,29.9,rural,1,0,0,Unknown,Private,1,0,2021,56 - 65 
+423,70,female,0,1,34.9,rural,1,1,0,formerly smoked,Private,1,0,2021,66 - 75 
+424,47,male,1,0,27.0,city,1,0,0,never smoked,Private,1,0,2021,46 - 55 
+425,74,male,0,0,26.6,city,0,0,0,Unknown,children,0,0,2020,66 - 75 
+426,79,female,0,1,25.0,city,0,0,0,never smoked,Private,1,0,2020,+75 
+427,81,male,1,1,23.8,city,1,1,0,smokes,Private,1,0,2020,+75 
+428,57,female,0,0,21.8,city,0,0,0,smokes,Private,1,0,2020,56 - 65 
+429,80,female,1,0,36.8,city,0,1,0,formerly smoked,Private,1,0,2020,+75 
+430,45,male,0,0,30.0,rural,1,0,0,never smoked,Private,1,0,2020,36 - 45 
+431,78,female,1,1,27.5,rural,0,0,0,formerly smoked,Govt_job,1,1,2020,+75 
+432,70,female,0,0,28.796875,rural,1,0,0,smokes,Govt_job,1,0,2020,66 - 75 
+433,58,male,0,1,24.6,rural,0,0,1,never smoked,Self-employed,1,0,2020,56 - 65 
+434,57,male,1,0,32.9,city,0,0,1,never smoked,Govt_job,1,0,2020,56 - 65 
+435,69,female,1,0,26.1,city,1,0,1,never smoked,Private,1,0,2020,66 - 75 
+436,64,male,0,1,32.72222222222222,city,0,1,1,formerly smoked,Self-employed,1,0,2020,56 - 65 
+437,77,female,0,0,31.9,rural,1,1,0,Unknown,children,0,1,2020,+75 
+438,74,female,0,0,34.1,rural,1,1,1,formerly smoked,Private,1,0,2020,66 - 75 
+439,81,female,0,1,27.5,rural,1,1,0,never smoked,Private,1,1,2020,+75 
+440,57,female,0,0,25.6,city,0,0,0,never smoked,Private,0,0,2020,56 - 65 
+441,58,male,1,1,36.9,city,1,0,0,never smoked,Private,0,0,2020,56 - 65 
+442,50,female,1,0,31.4,rural,1,0,0,Unknown,Private,1,0,2020,46 - 55 
+443,54,female,0,0,37.3,rural,1,0,0,Unknown,Govt_job,0,0,2020,46 - 55 
+444,79,female,0,0,34.1,rural,1,1,0,Unknown,Self-employed,1,0,2020,+75 
+445,53,female,0,0,25.0,city,1,0,1,Unknown,children,0,0,2020,46 - 55 
+446,79,male,1,1,28.565555555555555,rural,1,0,1,Unknown,Govt_job,0,0,2020,+75 
+447,80,male,1,1,27.659999999999997,city,1,0,1,never smoked,Self-employed,1,0,2020,+75 
+448,76,female,1,0,28.413749999999997,city,1,0,1,Unknown,Private,1,0,2020,+75 
+449,45,female,0,0,45.7,rural,0,0,1,never smoked,Govt_job,1,0,2020,36 - 45 
+450,68,female,0,0,34.2,city,1,0,1,smokes,Self-employed,1,0,2022,66 - 75 
+451,71,male,1,1,23.6,rural,1,0,1,never smoked,children,0,0,2022,66 - 75 
+452,61,male,1,0,27.3,rural,1,0,1,never smoked,Private,0,0,2022,56 - 65 
+453,74,male,1,1,29.37142857142857,city,1,0,1,Unknown,Self-employed,1,0,2022,66 - 75 
+454,38,female,0,0,22.3,city,0,0,0,never smoked,Private,1,0,2022,36 - 45 
+455,77,female,0,0,31.4,city,1,0,0,never smoked,Private,0,0,2022,+75 
+456,58,female,0,0,29.513636363636362,rural,1,0,1,formerly smoked,Private,0,0,2022,56 - 65 
+457,53,female,1,0,27.998333333333335,city,1,0,0,smokes,Private,1,1,2022,46 - 55 
+458,80,male,0,0,26.4,rural,1,1,0,Unknown,Private,1,0,2022,+75 
+459,56,male,1,0,32.9,rural,0,1,0,Unknown,children,0,0,2022,56 - 65 
+460,72,female,1,1,31.606153846153845,city,1,0,0,Unknown,children,0,0,2022,66 - 75 
+461,72,female,0,0,37.1,city,1,0,0,Unknown,children,0,0,2022,66 - 75 
+462,78,male,1,0,45.0,city,0,1,0,formerly smoked,Private,0,0,2019,+75 
+463,80,female,0,0,25.5,city,1,1,0,never smoked,Self-employed,1,0,2019,+75 
+464,82,male,0,0,29.791874999999997,city,1,1,0,never smoked,Private,1,0,2019,+75 
+465,75,female,0,0,26.1,city,1,0,0,smokes,Private,1,0,2019,+75 
+466,73,female,1,0,30.8,rural,1,0,0,smokes,Private,1,0,2019,66 - 75 
+467,78,female,1,0,32.0,city,1,0,1,never smoked,Self-employed,0,0,2019,+75 
+468,69,male,1,0,29.9,rural,1,0,0,never smoked,Private,1,0,2019,66 - 75 
+469,38,female,0,0,22.3,rural,0,0,0,Unknown,Private,1,0,2019,36 - 45 
+470,68,female,1,0,37.4,rural,1,1,1,never smoked,Private,1,1,2019,66 - 75 
+471,71,female,0,0,31.7,city,1,1,0,never smoked,Self-employed,0,1,2019,66 - 75 
+472,76,male,0,0,34.5,city,1,0,0,smokes,Private,1,0,2019,+75 
+473,76,female,0,0,27.9,city,1,0,1,never smoked,Govt_job,1,1,2019,+75 
+474,76,male,1,0,29.5,rural,1,1,0,smokes,Private,0,1,2019,+75 
+475,75,female,0,0,27.426470588235293,rural,0,1,0,never smoked,Private,0,1,2019,+75 
+476,82,male,0,1,46.0,rural,0,1,1,Unknown,Private,0,1,2019,+75 
+477,59,female,0,0,42.5,rural,1,0,0,Unknown,Govt_job,1,1,2022,56 - 65 
+478,74,female,1,0,35.5,city,1,0,0,formerly smoked,Govt_job,1,0,2022,66 - 75 
+479,69,female,1,1,31.1,city,1,0,0,smokes,Private,1,0,2022,66 - 75 
+480,72,female,1,0,26.9,city,1,1,1,Unknown,children,0,0,2022,66 - 75 
+481,66,male,0,0,35.8,city,1,1,1,Unknown,Self-employed,1,0,2022,66 - 75 
+482,65,male,0,0,45.5,city,0,0,0,Unknown,Self-employed,1,0,2022,56 - 65 
+483,78,female,0,0,28.5,city,1,1,1,Unknown,children,0,0,2022,+75 
+484,57,female,1,0,29.265384615384615,rural,1,0,0,smokes,Self-employed,1,0,2022,56 - 65 
+485,70,female,0,1,26.6,rural,0,1,0,never smoked,Private,1,0,2022,66 - 75 
+486,79,female,0,0,28.565555555555555,rural,0,0,0,never smoked,Private,0,0,2022,+75 
+487,68,male,0,1,31.5,city,0,0,0,Unknown,Private,1,0,2022,66 - 75 
+488,80,female,1,1,32.0,city,1,1,1,formerly smoked,Self-employed,1,0,2022,+75 
+489,68,male,1,0,30.8,city,0,0,0,Unknown,Private,1,0,2022,66 - 75 
+490,55,female,0,0,31.1,rural,0,0,0,Unknown,Private,0,0,2022,46 - 55 
+491,77,female,0,1,33.0,rural,1,1,1,formerly smoked,Private,1,0,2022,+75 
+492,50,female,0,0,23.4,rural,0,0,0,Unknown,Self-employed,1,0,2022,46 - 55 
+493,57,female,0,0,26.9,city,1,1,0,never smoked,Private,0,0,2022,56 - 65 
+494,71,female,1,0,33.6,city,1,1,0,formerly smoked,Private,1,0,2022,66 - 75 
+495,81,female,1,0,23.9,rural,1,1,0,never smoked,Private,1,0,2022,+75 
+496,76,female,1,1,26.3,city,1,1,0,Unknown,children,0,0,2021,+75 
+497,71,male,1,1,27.3,city,1,1,0,never smoked,children,0,0,2021,66 - 75 
+498,44,female,0,0,30.7,city,0,0,1,Unknown,children,0,0,2021,36 - 45 
+499,78,female,1,0,20.5,city,0,1,0,smokes,Private,0,0,2021,+75 
+500,70,female,1,0,21.5,city,1,0,1,formerly smoked,Private,1,0,2021,66 - 75 
+501,78,male,1,1,31.0,city,0,1,1,formerly smoked,Private,1,0,2021,+75 
+502,56,female,0,0,27.1,rural,1,0,0,never smoked,Private,1,0,2021,56 - 65 
+503,79,male,1,0,40.0,rural,0,1,1,Unknown,Self-employed,1,0,2021,+75 
+504,79,female,1,0,28.565555555555555,city,1,1,1,smokes,Govt_job,1,0,2021,+75 
+505,81,male,1,1,28.6,rural,1,1,1,smokes,Private,1,0,2021,+75 
+506,64,male,0,0,28.1,rural,1,0,0,formerly smoked,Private,1,0,2021,56 - 65 
+507,79,female,1,1,28.4,rural,1,0,0,Unknown,Private,1,0,2021,+75 
+508,60,female,0,0,42.2,city,1,0,1,Unknown,Private,1,0,2021,56 - 65 
+509,80,female,1,0,25.8,rural,1,1,0,never smoked,Private,1,0,2021,+75 
+510,78,female,0,0,31.9,rural,1,1,0,formerly smoked,Private,1,0,2021,+75 
+511,72,male,1,0,31.0,rural,1,0,0,smokes,Private,1,0,2021,66 - 75 
+512,80,female,0,0,27.5,city,1,1,0,smokes,Private,1,0,2021,+75 
+513,78,male,1,0,29.503666666666668,city,1,0,0,smokes,Private,0,0,2021,+75 
+514,80,female,1,0,29.6,city,1,1,1,smokes,Govt_job,0,0,2021,+75 
+515,81,male,0,0,35.4,city,1,0,1,smokes,Private,1,0,2021,+75 
+516,46,female,0,1,16.9,city,0,0,0,never smoked,Self-employed,1,0,2020,46 - 55 
+517,59,male,0,0,21.5,city,1,1,1,formerly smoked,Self-employed,1,0,2020,56 - 65 
+518,32,female,0,0,34.4,rural,0,0,0,Unknown,Private,1,0,2020,26 - 35 
+519,77,female,1,1,28.0,city,0,0,0,Unknown,children,0,0,2020,+75 
+520,61,male,1,1,26.8,city,1,0,0,never smoked,Private,1,0,2020,56 - 65 
+521,63,male,0,0,39.3,rural,1,1,1,never smoked,Self-employed,1,0,2020,56 - 65 
+522,63,male,0,1,31.7,city,1,0,0,smokes,Private,1,0,2020,56 - 65 
+523,82,female,1,1,32.6,city,1,0,0,never smoked,Private,1,0,2020,+75 
+524,82,male,0,0,28.4,rural,1,0,0,never smoked,Govt_job,1,0,2020,+75 
+525,61,male,0,1,35.9,city,1,0,1,Unknown,children,0,1,2020,56 - 65 
+526,65,female,0,0,21.2,city,1,0,0,never smoked,Private,1,0,2020,56 - 65 
+527,51,male,1,0,34.5,city,1,0,0,never smoked,Govt_job,1,1,2020,46 - 55 
+528,59,male,0,0,42.4,rural,1,1,1,formerly smoked,Private,1,1,2020,56 - 65 
+529,68,male,1,1,40.5,rural,0,0,0,Unknown,Private,1,1,2020,66 - 75 
+530,72,female,0,0,36.7,rural,0,0,0,formerly smoked,Self-employed,1,0,2022,66 - 75 
+531,59,male,0,0,30.9,city,1,1,0,never smoked,Private,0,0,2022,56 - 65 
+532,70,male,1,0,29.3,rural,1,0,0,Unknown,Private,1,0,2022,66 - 75 
+533,69,male,0,0,31.51,rural,1,0,0,never smoked,Private,1,0,2022,66 - 75 
+534,79,male,1,1,19.6,rural,1,1,0,Unknown,Private,0,0,2022,+75 
+535,74,female,0,0,18.0,city,1,0,0,Unknown,children,0,0,2019,66 - 75 
+536,74,male,0,0,39.2,city,1,0,1,never smoked,Private,1,0,2019,66 - 75 
+537,80,male,1,1,17.6,city,1,1,1,Unknown,Self-employed,1,0,2019,+75 
+538,77,female,0,0,35.9,rural,1,0,0,never smoked,Private,0,1,2019,+75 
+539,78,female,0,0,19.1,rural,1,0,0,Unknown,Private,1,0,2019,+75 
+540,54,male,1,0,50.1,rural,0,0,1,never smoked,Private,1,0,2019,46 - 55 
+541,78,female,0,0,17.7,city,1,1,0,formerly smoked,Govt_job,1,0,2019,+75 
+542,81,female,0,0,27.0,rural,0,0,1,formerly smoked,Self-employed,1,0,2019,+75 
+543,78,male,0,0,32.3,city,1,1,1,Unknown,Self-employed,1,0,2019,+75 
+544,78,male,1,0,54.6,rural,1,0,0,never smoked,Private,1,1,2019,+75 
+545,63,female,1,1,35.0,rural,1,0,0,Unknown,Private,0,0,2019,56 - 65 
+546,39,female,0,0,22.0,city,0,0,0,Unknown,children,0,0,2019,36 - 45 
+547,51,female,0,0,39.4,rural,1,0,1,smokes,Private,1,0,2019,46 - 55 
+548,63,male,1,1,26.1,city,0,1,0,never smoked,Private,0,0,2019,56 - 65 
+549,48,female,0,0,42.4,city,1,0,0,never smoked,Private,1,1,2019,46 - 55 
+550,81,female,0,0,33.0,city,1,1,0,Unknown,children,0,0,2019,+75 
+551,79,female,0,1,19.7,city,1,0,1,formerly smoked,Private,1,0,2019,+75 
+552,78,male,0,0,22.5,city,1,1,0,Unknown,Private,1,0,2019,+75 
+553,55,female,1,1,24.6,city,1,1,0,never smoked,Self-employed,1,0,2019,46 - 55 
+554,76,female,1,1,25.2,city,1,0,0,Unknown,children,0,1,2019,+75 
+555,73,male,0,1,41.8,rural,1,0,0,never smoked,Private,0,0,2021,66 - 75 
+556,81,male,1,1,60.9,city,1,1,0,never smoked,Private,0,0,2021,+75 
+557,79,male,0,0,31.5,rural,1,1,1,Unknown,Private,1,0,2021,+75 
+558,63,female,0,0,27.3,rural,0,0,0,Unknown,children,0,0,2021,56 - 65 
+559,81,female,0,0,23.7,city,1,0,0,never smoked,Govt_job,1,0,2021,+75 
+560,49,male,0,0,24.5,rural,1,0,1,Unknown,children,0,0,2021,46 - 55 
+561,57,female,1,1,28.4,city,1,0,0,never smoked,Private,1,0,2021,56 - 65 
+562,81,female,1,0,26.9,rural,1,1,0,Unknown,children,0,0,2022,+75 
+563,74,male,0,0,26.7,rural,1,1,0,never smoked,Self-employed,1,0,2022,66 - 75 
+564,39,female,0,0,31.2,city,1,0,1,Unknown,children,0,0,2022,36 - 45 
+565,80,female,1,1,25.0,city,1,0,1,never smoked,Private,1,0,2022,+75 
+566,81,female,0,0,25.4,rural,1,1,0,Unknown,Private,0,0,2022,+75 
+567,79,female,0,0,27.5,city,1,0,1,formerly smoked,Private,0,0,2022,+75 
+568,73,female,0,1,16.0,city,0,0,0,Unknown,Self-employed,0,0,2022,66 - 75 
+569,77,female,1,0,27.0,city,1,0,0,never smoked,Self-employed,0,0,2022,+75 
+570,78,male,1,0,31.6,city,0,0,0,never smoked,Private,1,0,2022,+75 
+571,68,female,0,1,25.1,rural,1,0,1,formerly smoked,Self-employed,1,1,2022,66 - 75 
+572,57,male,0,0,30.9,city,0,0,1,formerly smoked,Private,1,0,2022,56 - 65 
+573,77,male,0,0,24.8,rural,1,1,1,smokes,Private,1,0,2022,+75 
+574,51,female,1,0,23.4,city,0,0,0,Unknown,Private,0,0,2022,46 - 55 
+575,60,male,0,1,29.4,city,0,0,0,never smoked,Private,1,0,2022,56 - 65 
+576,66,male,0,0,18.3,rural,1,1,1,smokes,Private,0,0,2022,66 - 75 
+577,57,male,0,1,20.0,rural,1,0,1,smokes,Private,1,0,2022,56 - 65 
+578,68,male,0,0,19.5,rural,1,0,1,formerly smoked,Private,0,0,2022,66 - 75 
+579,68,female,1,1,36.0,city,1,0,0,never smoked,Private,1,0,2022,66 - 75 
+580,57,male,0,0,27.7,rural,1,0,1,formerly smoked,Self-employed,1,0,2022,56 - 65 
+581,24,female,1,1,27.5,rural,0,0,0,Unknown,Self-employed,0,0,2022,19 - 25 
+582,75,female,0,0,28.5,rural,1,1,0,Unknown,Private,1,0,2022,+75 
+583,71,male,1,0,26.8,rural,1,0,1,formerly smoked,Private,1,0,2020,66 - 75 
+584,78,female,0,0,33.6,rural,1,0,1,Unknown,children,0,0,2020,+75 
+585,63,male,0,0,29.1,rural,1,0,1,formerly smoked,Private,1,0,2020,56 - 65 
+586,58,male,1,0,28.5,city,1,0,1,Unknown,Private,0,0,2020,56 - 65 
+587,80,female,0,0,34.9,city,1,0,0,never smoked,Self-employed,1,1,2020,+75 
+588,70,female,0,0,25.1,rural,1,0,1,formerly smoked,Private,1,0,2020,66 - 75 
+589,44,male,1,0,35.3,rural,1,0,1,smokes,Private,1,1,2020,36 - 45 
+590,47,female,1,0,26.4,city,0,0,0,Unknown,Private,1,0,2020,46 - 55 
+591,52,female,1,0,31.5,city,1,0,1,smokes,Private,1,0,2020,46 - 55 
+592,75,female,0,1,40.1,rural,1,0,0,never smoked,Private,1,0,2020,+75 
+593,32,female,0,0,43.1,rural,1,0,0,never smoked,Private,1,0,2020,26 - 35 
+594,74,female,1,0,36.7,city,1,1,1,smokes,Private,1,0,2020,66 - 75 
+595,79,female,0,0,29.3,city,1,1,1,smokes,Private,1,0,2020,+75 
+596,79,male,0,1,21.2,city,1,0,1,formerly smoked,Self-employed,1,0,2020,+75 
+597,37,female,0,0,31.2,rural,0,0,0,Unknown,children,0,0,2020,36 - 45 
+598,37,female,1,0,21.4,rural,0,0,0,never smoked,children,0,0,2020,36 - 45 
+599,85,male,1,0,27.9,rural,1,0,0,never smoked,Private,1,1,2020,+75 
+600,58,male,1,1,34.3,rural,1,0,1,smokes,Self-employed,0,0,2020,56 - 65 
